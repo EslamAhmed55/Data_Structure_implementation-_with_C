@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681704177 source:d:\projects\data structures\list\list_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List_Array.h"
+
+1681493344 source:d:\projects\data structures\list\list_array\list_array.c
+	"List_Array.h"
+
+1681704818 d:\projects\data structures\list\list_array\list_array.h
+	<stdlib.h>
+	<string.h>
+
+1681704091 source:d:\projects\data structures\list\list_array\searching_algorithm.c
+	"List_Array.h"
+

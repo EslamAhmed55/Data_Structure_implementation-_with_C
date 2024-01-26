@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681395722 source:d:\projects\data structures\stack\stack_linkedlist\stack_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack_LinkedList.h"
+
+1681394672 d:\projects\data structures\stack\stack_linkedlist\stack_linkedlist\stack_linkedlist.h
+	<stdlib.h>
+
+1681395306 source:d:\projects\data structures\stack\stack_linkedlist\stack_linkedlist\stack_linkedlist.c
+	"Stack_LinkedList.h"
+

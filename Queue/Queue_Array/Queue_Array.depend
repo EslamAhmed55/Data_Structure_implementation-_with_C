@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681402383 source:d:\projects\data structures\queue\queue_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue_Array.h"
+
+1681402317 source:d:\projects\data structures\queue\queue_array\queue_array.c
+	"Queue_Array.h"
+
+1681402441 d:\projects\data structures\queue\queue_array\queue_array.h
+	<stdlib.h>
+
